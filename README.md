@@ -30,4 +30,5 @@ This project is an OTP (One-Time Password) verification system built using **Nod
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sarthak03dot/OTP-Authentication.git
+   cd OTP-Authentication
