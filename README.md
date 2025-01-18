@@ -24,9 +24,8 @@ This project is an OTP (One-Time Password) verification system built using **Nod
   - React.js
   - Axios (for making HTTP requests)
 
-## Setup Instructions
 
-### Backend Setup
+### Backend Setup :
 
 1. Clone the repository:
    ```bash
