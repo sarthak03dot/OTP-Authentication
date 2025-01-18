@@ -1,4 +1,6 @@
 # OTP Verification System
+![Screen-Recording-2025-01-15-025032](https://github.com/user-attachments/assets/5e22471a-93f3-4a34-8358-4720b37d8979)
+
 
 This project is an OTP (One-Time Password) verification system built using **Node.js** and **React**. The backend is powered by **Express.js**, and the OTPs are sent via **Gmail SMTP**. The frontend is a simple React app that allows users to enter their email, request an OTP, and verify it.
 
